@@ -1,0 +1,5 @@
+{
+  "triage.title": "Triage Gate",
+  "triage.fast": "Fast-path verdict",
+  "triage.slow": "Sent to semantic layer"
+}

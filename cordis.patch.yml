@@ -1,0 +1,3 @@
+- insert:
+  - id: triage-gate
+    name: "@local/dsh-triage-gate"
